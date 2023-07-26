@@ -1,1 +1,1 @@
-0x03. Python - Data Structures: Lists, Tuples,Dictionaries
+0x03. Python - Data Structures: Linked List,Stack,Hash,Graph,Queue,Array
